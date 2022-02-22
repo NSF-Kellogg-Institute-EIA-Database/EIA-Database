@@ -17,29 +17,33 @@ similarly denotes the years when country-pair agreements change in degree of int
 includes hyperlinks to the PDF file from where that information was obtained. The last tab is the
 Comments & PDF Links where the data sheet’s pdf files are hyperlinked and includes additional
 information regarding the agreement between the country pair.
+
 It is important to note that, due to the limitations on space in GitHub, we are not able to include
 the Excel Data Sheet that includes the “hyperlinks” to the PDF files, nor are we able to include
 the PDF files that support the hyperlinks (and hence explain our degree of integration, 0-6). Per
 below, one has to download the entire Zip file of the data base, which is available currently at
 either of the two links specified below.
+
 This database was created with the purpose of compiling existing information regarding past
 and recent trade agreements between countries that recognize not only bilateral and plurilateral
 trade agreements, but also non-reciprocal preferential trade agreements (e.g., a country
 granting another country GSP status) since the year they were entered into force. This
 information helps keep track of how bilateral and plurilateral trade agreements have developed
 between countries over time.
+
 The database only recognizes the existing trade agreement of highest degree of economic
 integration in a given year for a given pair of countries, not all of its existing trade agreements.
 For example, two countries (A and B) may enter into a preferential (but not free) trade
 agreement, which is a 2. However, importer A may also have in effect a one-way GSP agreement
 with exporter B (which is a 1 for B to A). In this case, the 2 dominates; there are only a few
 observations in the database with this overlap.
+
 Trade agreements are included in the database according to the year they enter into force with
 the following system. For example, if the agreement entered into force between January 1 and
 June 30 of 2015, the year of entry is 2015. If the agreement entered into force between July 1
 and December 31 of 2015, the year of entry is 2016. This is employed to account for delays in
 implementation of agreements.
-2
+
 The full database can be found in a Zip file at either of two locations. One location is the
 personal website of Jeffrey H. Bergstrand in the Department of Finance at the University of
 Notre Dame, with the link immediately below.
